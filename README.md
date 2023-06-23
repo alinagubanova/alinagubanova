@@ -1,4 +1,4 @@
-[![MasterHead](https://www.lambdatest.com/resources/images/Software-Test-Management.gif)
+ [![MasterHead](https://www.lambdatest.com/resources/images/Software-Test-Management.gif)
 <h1 align="center">Hi 👋, I'm Alina Gubanova</h1>
 <h3 align="center">A passionate Software QA Engineer from New York</h3>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
