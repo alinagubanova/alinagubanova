@@ -7,9 +7,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinagubanova&label=Profile%20views&color=0e75b6&style=flat" alt="alinagubanova" /> </p>
 
-- 💬 Ask me about **Quality-Assurance, Testing, Manual-Testing, API-Testing**
+- 💬 Ask me about **Quality-Assurance, Testing, Manual-Testing, Automation Testing, API-Testing**
 
-- 📫 How to reach me **alina.gubanovaa98@gmail.com**
+- 📫 How to reach me **alinaa.gubanovaa@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
